@@ -4,3 +4,5 @@ print(firstName.title())
 lastName = 'LIN'
 print(lastName)
 print(lastName.title())
+print(firstName.upper())
+print(lastName.lower())
