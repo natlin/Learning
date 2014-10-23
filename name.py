@@ -9,3 +9,9 @@ print(lastName.lower())
 
 fullName = firstName + ' ' + lastName
 print(fullName.title())
+
+message = fullName.title() + ' ' + "wants to learn to code in Python"
+print(message)
+
+message2 = fullName.title() + ' wants to learn to code in Python'
+print(message)
