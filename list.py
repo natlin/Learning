@@ -12,4 +12,9 @@ for x in mylist:
  print x
 
 #testing out of range
-print(mylist[10])
+#print(mylist[10])
+
+list2=[1, 2, 3]
+
+for x in list2:
+ print x
