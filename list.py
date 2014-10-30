@@ -30,3 +30,5 @@ print(list2+list4)
 odd=[1,3,5]
 even=[2,4,6]
 print(odd + even)
+print(odd*3)
+
