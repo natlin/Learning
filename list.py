@@ -24,4 +24,7 @@ list3=[2, 3, 4]
 maxlist = list2 + list3
 
 print(maxlist)
+list4=[1, 2, 3]
+
+print(list2+list4)
 
