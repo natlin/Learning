@@ -3,3 +3,4 @@
 
 contains: \n
 HelloWorld.py \n
+HelloWorldVar.py \n
