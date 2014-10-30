@@ -8,3 +8,4 @@ list.py \n
 math.py \n
 morestring.py \n
 name.py \n
+string.py \n
