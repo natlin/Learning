@@ -9,5 +9,5 @@ math.py
 morestring.py  
 name.py  
 string.py  
-Variable.py  
+variable.py  
 whitespace.py  
