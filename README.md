@@ -1,7 +1,7 @@
 #README
 #This is me learning python
 
-contains: \n
+contains: 
 HelloWorld.py \n
 HelloWorldVar.py \n
 list.py \n
