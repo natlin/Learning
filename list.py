@@ -27,4 +27,6 @@ print(maxlist)
 list4=[1, 2, 3]
 
 print(list2+list4)
-
+odd=[1,3,5]
+even=[2,4,6]
+print(odd + even)
