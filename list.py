@@ -10,3 +10,6 @@ print(mylist[2])
 
 for x in mylist:
  print x
+
+#testing out of range
+print(mylist[10])
