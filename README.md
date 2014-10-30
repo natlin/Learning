@@ -2,7 +2,7 @@
 #This is me learning python
 
 contains:  
-HelloWorld.py  
+helloworld.py  
 HelloWorldVar.py  
 list.py  
 math.py  
