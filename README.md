@@ -3,7 +3,7 @@
 
 contains:  
 helloworld.py  
-HelloWorldVar.py  
+helloworldvar.py  
 list.py  
 math.py  
 morestring.py  
